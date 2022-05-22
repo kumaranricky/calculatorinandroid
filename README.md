@@ -296,8 +296,8 @@ public class MainActivity2 extends AppCompatActivity {
 }
 ```
 ## <br>OUTPUT
-<br>
-![Screenshot (197)](https://user-images.githubusercontent.com/75243072/169356848-a866bbbf-3b58-4102-aa8f-6874da74fd4d.png)<br>
+
+![Screenshot (197)](https://user-images.githubusercontent.com/75243072/169699008-cd993887-f407-4243-a7a7-3ea9e1fc6f0a.png)<br>
 
 ![Screenshot (198)](https://user-images.githubusercontent.com/75243072/169356871-0a10634a-245c-4167-9dc0-1b7ffc6962dd.png)<br>
 
